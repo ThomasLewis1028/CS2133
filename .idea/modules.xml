@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Average/Average.iml" filepath="$PROJECT_DIR$/Average/Average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Browser/Browser.iml" filepath="$PROJECT_DIR$/Browser/Browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2133.iml" filepath="$PROJECT_DIR$/CS2133.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Caesar/Caesar.iml" filepath="$PROJECT_DIR$/Caesar/Caesar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fib/Fib.iml" filepath="$PROJECT_DIR$/Fib/Fib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibTest/FibTest.iml" filepath="$PROJECT_DIR$/FibTest/FibTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionTest/FunctionTest.iml" filepath="$PROJECT_DIR$/FunctionTest/FunctionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geography/Geography.iml" filepath="$PROJECT_DIR$/Geography/Geography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gregory/Gregory.iml" filepath="$PROJECT_DIR$/Gregory/Gregory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huffman/Huffman.iml" filepath="$PROJECT_DIR$/Huffman/Huffman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Message/Message.iml" filepath="$PROJECT_DIR$/Message/Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minesweeper/Minesweeper.iml" filepath="$PROJECT_DIR$/Minesweeper/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Permutations/Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PingPong/PingPong.iml" filepath="$PROJECT_DIR$/PingPong/PingPong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poly/Poly.iml" filepath="$PROJECT_DIR$/Poly/Poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectEuler/ProjectEuler.iml" filepath="$PROJECT_DIR$/ProjectEuler/ProjectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ramanujan/Ramanujan.iml" filepath="$PROJECT_DIR$/Ramanujan/Ramanujan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RamanujanBig/RamanujanBig.iml" filepath="$PROJECT_DIR$/RamanujanBig/RamanujanBig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot/Robot.iml" filepath="$PROJECT_DIR$/Robot/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sierpinski/Sierpinski.iml" filepath="$PROJECT_DIR$/Sierpinski/Sierpinski.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Webserver/Webserver.iml" filepath="$PROJECT_DIR$/Webserver/Webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greetings/greetings.iml" filepath="$PROJECT_DIR$/greetings/greetings.iml" />
+    </modules>
+  </component>
+</project>
